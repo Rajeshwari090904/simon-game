@@ -10,11 +10,17 @@ Test your focus, sharpen your memory, and see how long you can keep up with Simo
 This mini-project recreates the classic Simon Says gameplay with a clean UI, smooth animations, and real-time user interaction—pure frontend, no frameworks, no shortcuts.
 
 🚀 Features
+
 🎮 Classic Simon Says gameplay
+
 🎨 Clean and responsive UI
+
 🔊 Visual feedback for each button press
+
 📈 Increasing difficulty with each level
+
 ❌ Game-over detection and restart option
+
 💡 Beginner-friendly and well-structured code
 
 
