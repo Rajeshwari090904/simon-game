@@ -9,6 +9,7 @@ Test your focus, sharpen your memory, and see how long you can keep up with Simo
 
 This mini-project recreates the classic Simon Says gameplay with a clean UI, smooth animations, and real-time user interaction—pure frontend, no frameworks, no shortcuts.
 
+
 🚀 Features
 
 🎮 Classic Simon Says gameplay
@@ -24,23 +25,36 @@ This mini-project recreates the classic Simon Says gameplay with a clean UI, smo
 💡 Beginner-friendly and well-structured code
 
 
+
 🛠️ Tech Stack
+
 HTML – structure
+
 CSS – styling & animations
+
 JavaScript – game logic & interactivity
 
 
+
 📌 How to Play
+
 Start the game.
+
 Watch the color sequence carefully.
+
 Repeat the sequence by clicking the buttons in order.
+
 Each level adds a new step—one mistake and it’s game over.
 
 
 🎯 Purpose
+
 This project was built as a mini project to practice:
+
 DOM manipulation
+
 Event handling
+
 Game logic
 
 Clean UI design using vanilla web technologies
